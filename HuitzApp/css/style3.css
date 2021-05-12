@@ -1,0 +1,76 @@
+html{
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+  }
+
+
+#drink-section img{
+	width: 100%;
+    height: auto;
+}
+
+body{
+ background-color: black;
+ color: white;
+}
+
+#MargButton {
+  size: 30px;
+  transition-duration: 0.4s;
+  font-size: 20px;
+}
+
+#MargButton:hover {
+  background-color: #0FA7B1; 
+  color: white;
+}
+
+#star{
+    background: url('../images/star.png');
+    height: 30px;
+    width:30px;
+    border: none;
+    position:relative;
+    margin-top:100%;
+}​
+
+div.navbar{
+    height: 5vw;
+}
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #212121;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+li {
+    padding: 2vw;
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+li a {
+    color: white;
+    display: block;
+    padding: 8px;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: #0FA7B1;
+}
+
+
+

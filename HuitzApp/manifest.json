@@ -1,0 +1,95 @@
+{
+  "name":  "Huitz App",
+  "short_name": "Huitz App",
+  "icons":[{
+     "src": "images/hello-icon-128.png",
+    "sizes":  "128x128",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/hello-icon-144.png",
+    "sizes":  "144x144",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/hello-icon-152.png",
+    "sizes":  "152x152",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/hello-icon-192.png",
+    "sizes":  "192x192",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/hello-icon-196maskable.png",
+    "sizes":  "196x196",
+    "type": "image/png",
+    "purpose": "any maskable"
+  },{
+    "src": "images/hello-icon-256.png",
+    "sizes":  "256x256",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/hello-icon-512.png",
+    "sizes":  "512x512",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/aztecCal.png",
+    "sizes":  "412x275",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/calendar.png",
+    "sizes":  "203x181",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/CDMXmus.png",
+    "sizes":  "771x418",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/favicon.png",
+    "sizes":  "63x45",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/Huitz.svg",
+    "sizes":  "any",
+    "type": "image/png",
+    "purpose": "any maskable"
+  },{
+    "src": "images/pulqueMus.png",
+    "sizes":  "634x421",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/star.png",
+    "sizes":  "30x30",
+    "type": "image/png",
+    "purpose": "any"
+  },{
+    "src": "images/temploMus.png",
+    "sizes":  "597x449",
+    "type": "image/gif",
+    "purpose": "any"
+  },{
+    "src": "images/teqymezMus.png",
+    "sizes":  "741x700",
+    "type": "image/gif",
+    "purpose": "any"
+   },{
+    "src": "images/tymMus.png",
+    "sizes":  "455x251",
+    "type": "image/gif",
+    "purpose": "any"
+  }],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "background_color": "white",
+  "theme_color": "white"
+}

@@ -1,0 +1,179 @@
+html{
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+  }
+
+/* unvisited link */
+/* visited link */
+a {
+  color: #0FA7B1;;
+}
+
+/* mouse over link */
+a:hover {
+  color: #EBEDED;
+}
+
+body{
+    margin: 0;
+}
+
+div.navbar{
+    height: 5vw;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #212121;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+li {
+    padding: 2vw;
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+li a {
+    color: white;
+    display: block;
+    padding: 8px;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: #0FA7B1;
+}
+
+div#Logo{
+    position: relative; 
+    bottom: 120px;
+    left: 200px;
+
+}
+
+p{
+    padding: 5vw;
+}
+
+img#logo{
+    height: 100%;
+    padding: none;
+}
+
+div.module{
+    display: flex;
+    height: auto;
+}
+
+div#modulecopy{
+    background-color:rgba(192,192,192,0.3);
+    width: 60vw;
+    padding: 2vw;
+    height: auto;
+    display: flex;
+    color: #EBEDED;
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap
+}
+
+div#m1photogallery{
+    background-image: url("https://images.unsplash.com/photo-1559647565-7444a7ea4073?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-color: #000;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding: 0;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+
+div#two{
+    height: auto;
+    background-image: url("../images/aztecCal.png");
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+  }
+
+  div#copy{
+    background-color:rgba(255,255,255,0.8);
+  }
+
+
+div#Logo{
+    position: relative; 
+    bottom: 120px;
+    left: 200px;
+
+}
+
+p{
+    padding: 5vw;
+}
+
+div.module{
+    display: flex;
+}
+
+
+div.modulecopy{
+    height: 20vw;
+    width: 30vw;
+    padding: 5%;
+}
+
+#inspiration{
+     width: 80%;
+    height: 50vw;
+}
+
+#overallText{
+     width: 70vw; 
+     height: auto;
+}
+
+h1{
+    padding-left: 5vw;
+    padding-top: 3vw;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+
+footer {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+
+div#footerdiv{
+    display: flex;
+}
+
+p#email{
+    text-align: center;
+
+}
+
+a#huitzemail{
+    color: #0FA7B1 ;
+}
+
+
+
+
+
